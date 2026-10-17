@@ -2,7 +2,7 @@
 
 > Client-side redirect from the bash-365.com apex domain to www, served by GitHub Pages for BASH Consulting.
 
-[![Live site](https://img.shields.io/badge/live-bash--365.com-2ea44f)](https://bash-365.com)
+[![Live site](https://img.shields.io/badge/live-bash--365.com-2ea44f)](https://bash-365.com) [![License](https://img.shields.io/github/license/bamr87/bash-365-apex)](LICENSE)
 
 ## Overview
 
@@ -37,11 +37,11 @@ Contributions are welcome via pull request. Use [Conventional Commits](https://w
 
 ## Changelog
 
-There is no CHANGELOG.md yet; changes are tracked in the [commit history](https://github.com/bamr87/bash-365-apex/commits/main).
+Notable changes are recorded in [CHANGELOG.md](CHANGELOG.md); the full record is in the [commit history](https://github.com/bamr87/bash-365-apex/commits/main).
 
 ## License
 
-No license file has been added yet, so all rights are reserved by default.
+Released under the [MIT License](LICENSE).
 
 ---
 
